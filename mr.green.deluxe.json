@@ -1,9 +1,9 @@
 {
   "app": {
     "title": "Mr. Green Deluxe",
-    "imagePath": "https://raw.githubusercontent.com/KarlHess/apps/master/deluxe-slot.jpg",
-    "linkPath": "",
-    "linkAction": "#start",
+    "imagePath": "https://raw.githubusercontent.com/KarlHess/apps/master/Mr.%20Green.jpg",
+    "linkPath": "https://ads.mrgreen.com/redirect.aspx?pid=4516774&bid=22407&subID=a_2197",
+    "linkAction": "#web",
     "afid": "2JESr3AQhV67Cicx7qo2SV"
   }
 }
